@@ -1,0 +1,1 @@
+[{:name "x-men", :price 10, :quantity 20, :id 1} {:name "titanic", :price 10, :quantity 32, :id 2} {:name "godfather", :price 23, :quantity 17, :id 3} {:name "inception", :price 5, :quantity 15, :id 4} {:name "prestige", :price 13, :quantity 20, :id 5}]
